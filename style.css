@@ -1,0 +1,13 @@
+.emoji{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.emj{
+    padding: 1rem;
+    border-style: solid;
+}
+.head-1{
+    text-align: center;
+    font-size: 2rem;
+}
